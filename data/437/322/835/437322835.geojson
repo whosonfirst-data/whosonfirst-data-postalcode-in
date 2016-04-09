@@ -1,0 +1,58 @@
+{
+  "id": 437322835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"IN",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85632427,
+        85632659,
+        85675735,
+        421183977,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"55928996"
+    },
+    "wof:country":"IN",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "county_id":421183977,
+            "disputed_id":85632427,
+            "postalcode_id":437322835,
+            "region_id":85675735
+        },
+        {
+            "country_id":85632469,
+            "county_id":421183977,
+            "disputed_id":85632427,
+            "postalcode_id":437322835,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":437322835,
+    "wof:lastmodified":1459823745,
+    "wof:name":"246139",
+    "wof:parent_id":"421183977",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
